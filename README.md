@@ -6,7 +6,7 @@ The goal of this project was to implement the Ford Fulkerson Algorithm to find t
 
 ## Visual
 
-<img src="Graph.png" Height=300><img src="Execution.png" Height=325>
+<img src="Graph.png" Height=250><img src="Execution.png" Height=250>
 
 ## Library
 
